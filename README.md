@@ -3,6 +3,11 @@
 Investment Calculator Mobile Application – Project Outline
 
 I.	Project Description
+
+
+
+
+
 a.	This investment calculator application helps users to estimate future value of an investment
 b.	Users enter initial investment, monthly and yearly contributions with a return rate and time period.
 c.	The application calculates based on the input and will provide a table with all the information
