@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Investment Calculator</string>
+    <string name="title_investment_calculator">Investment Calculator</string>
+    <string name="description_investment_calculator">Plan your financial future. This calculator assumes monthly contributions are made at the beginning of the month, with interest compounded monthly at the end of the month.</string>
+    <string name="label_initial_investment">Initial Investment</string>
+    <string name="label_monthly_contribution">Monthly Contribution</string>
+    <string name="label_interest_rate">Annual Interest Rate (%)</string>
+    <string name="label_years">Years</string>
+    <string name="label_months">Months</string>
+    <string name="hint_decimal_zero">0.00</string>
+    <string name="hint_integer_zero">0</string>
+    <string name="hint_interest_rate">5.0</string>
+    <string name="default_initial_investment">0</string>
+    <string name="default_monthly_contribution">100</string>
+    <string name="default_interest_rate">5</string>
+    <string name="default_years">1</string>
+    <string name="default_months">0</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_start_calculating">Start Calculating</string>
+    <string name="header_month">#</string>
+    <string name="header_deposit">Deposit</string>
+    <string name="header_interest">Interest</string>
+    <string name="header_ending_bal">Balance</string>
+    <string name="result_format">Result: $%s</string>
+    <string name="label_total_invested">Total Invested</string>
+    <string name="label_total_interest">Total Interest</string>
+    <string name="label_grand_total">Grand Total</string>
+    <string name="value_format">$%s</string>
+    <string name="initial_value">$0.00</string>
+</resources>
